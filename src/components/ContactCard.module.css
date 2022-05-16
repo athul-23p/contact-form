@@ -1,0 +1,29 @@
+.name{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.profile_pic{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: block;
+}
+.profile_pic_large{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+.grey{
+    color: grey;
+}
+
+.hide{
+    display: none;
+}
+
+.card_container{
+    display:  flex;
+    padding: 10px;
+    align-items: center;
+}
