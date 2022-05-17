@@ -1,7 +1,7 @@
 .App {
-  /* height: 500px; */
-  /* width: 200px; */
-  border: 1px solid red;
-  /* transform: translate(50%,50%); */
+  width: 400px;
+  padding: 15px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  
 }
 

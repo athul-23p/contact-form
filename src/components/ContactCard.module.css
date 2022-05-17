@@ -1,5 +1,6 @@
 .name{
     font-size: 18px;
+    margin: 0px;
     font-weight: 500;
 }
 
@@ -8,11 +9,12 @@
     height: 40px;
     border-radius: 50%;
     display: block;
+    margin-right: 10px;
+    object-fit: cover;
 }
-.profile_pic_large{
+.img_large{
     width: 70px;
-    height: 70px;
-    border-radius: 50%;
+    height: 70px
 }
 .grey{
     color: grey;
@@ -26,4 +28,9 @@
     display:  flex;
     padding: 10px;
     align-items: center;
+    background-color: white;
+}
+
+.contact_details > p{
+    margin: 4px;
 }
